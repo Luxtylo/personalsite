@@ -1,0 +1,23 @@
+/*Stylesheet for gbryant.co.uk*/
+
+.headercontainer {
+	margin: 0em;
+
+	background-color: #FF0;
+}
+
+.page {
+	min-width: 800px;
+	max-width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+
+	background-color: #F00;
+}
+
+body {
+	margin: 0em;
+	padding: 0.5em;
+
+	font-family: "Source Sans Pro";
+}
